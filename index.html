@@ -9,6 +9,8 @@
   <!--                            SCRIPT FILES                                                         -->
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.3/semantic.min.js"></script>
+  <script src="js/simpleCart.min.js"></script>
+  <script src="js/cart.js"></script>
 
   <!--                            CSS FILES                                                         -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.0/semantic.min.css">
@@ -20,15 +22,22 @@
 </head>
 
 <body>
-   <header class="sixteen wide column">
-      <nav class="ui three item menu">
-        <h2 class="ui header item">Simple Music Store</h2>
-        <a class="item" href="index.html">Home</a>
-        <a class="item" href="checkout.html"><span class="simpleCart_total"></span> Checkout</a>
-     </nav>
-     <br>
-   </header>
-   <section class="ui container">
+  <header class="sixteen wide column">
+     <nav class="ui four item menu">
+       <h2 class="ui header item">Simple Music Store</h2>
+       <a class="item" href="index.html">Home</a>
+       <div class="ui dropdown item">
+         <span class="simpleCart_total"></span> Checkout <i class="dropdown icon"></i>
+         <div class="menu">
+           <div class="simpleCart_items item"></div>
+           <a class="item blue" href="checkout.html">Checkout</a>
+         </div>
+       </div>
+    </nav>
+    <br>
+  </header>
+
+   <section class="">
       <article id="content" class="ui styled accordion container">
 
       </article>
