@@ -1,0 +1,31 @@
+body {
+   background-color: #F1F1F1;
+}
+
+section {
+
+}
+
+.ui.styled.accordion {
+  min-width: 70%;
+}
+
+article#content h2 {
+  margin-top: 0;
+}
+
+article#content a {
+  margin-left: .5em;
+}
+
+footer {
+  text-align: center;
+}
+
+span.item-name {
+  color: red;
+}
+
+table td {
+  padding: 1em;
+}

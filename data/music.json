@@ -1,0 +1,268 @@
+{
+   "artists" : [
+      {
+         "name" : "Alison Wonderland",
+         "album" : "Run",
+         "image" : "imgs/run.jpg",
+         "year" : "2015",
+         "tags" : [
+            {
+               "type" : "EDM",
+               "color" : "green"
+            },
+            {
+               "type" : "Trap",
+               "color" : "red"
+            }
+         ],
+         "songs" : [{
+            "num" : 1,
+            "name" : "Run",
+            "duration" : "3:38",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 2,
+            "name" : "U Don't Know Fr. Wayne",
+            "duration" : "4:03",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 3,
+            "name" : "Take It To Reality Ft. Safia",
+            "duration" : "3:52",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 4,
+            "name" : "Naked",
+            "duration" : "3:17",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 5,
+            "name" : "Carry On Ft. Johnny Nelson",
+            "duration" : "4:01",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 6,
+            "name" : "I Want U",
+            "duration" : "3:30",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 7,
+            "name" : "Games",
+            "duration" : "3:35",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 8,
+            "name" : "One More Hit",
+            "duration" : "3:24",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 9,
+            "name" : "Ignore",
+            "duration" : "3:54",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 10,
+            "name" : "Back It Up",
+            "duration" : "2:13",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 11,
+            "name" : "Cold",
+            "duration" : "3:32",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 12,
+            "name" : "  Already Gone",
+            "duration" : "4:01",
+            "price" : "$2.19"
+         }]
+      },
+      {
+         "name" : "Major Lazer",
+         "album" : "Peace is the Mission",
+         "image" : "imgs/peace.jpg",
+         "year" : "2015",
+         "tags" : [
+            {
+               "type" : "EDM",
+               "color" : "green"
+            },
+            {
+               "type" : "Dance",
+               "color" : "blue"
+            }
+         ],
+         "songs" : [{
+            "num" : 1,
+            "name" : "Run",
+            "duration" : "3:38",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 2,
+            "name" : "U Don't Know Fr. Wayne",
+            "duration" : "4:03",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 3,
+            "name" : "Take It To Reality Ft. Safia",
+            "duration" : "3:52",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 4,
+            "name" : "Naked",
+            "duration" : "3:17",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 5,
+            "name" : "Carry On Ft. Johnny Nelson",
+            "duration" : "4:01",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 6,
+            "name" : "I Want U",
+            "duration" : "3:30",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 7,
+            "name" : "Games",
+            "duration" : "3:35",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 8,
+            "name" : "One More Hit",
+            "duration" : "3:24",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 9,
+            "name" : "Ignore",
+            "duration" : "3:54",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 10,
+            "name" : "Back It Up",
+            "duration" : "2:13",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 11,
+            "name" : "Cold",
+            "duration" : "3:32",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 12,
+            "name" : "  Already Gone",
+            "duration" : "4:01",
+            "price" : "$2.19"
+         }]
+      },
+      {
+         "name" : "XXYYXX",
+         "album" : "XXYYXX",
+         "image" : "imgs/xxyyxx.jpg",
+         "year" : "2012",
+         "tags" : [
+            {
+               "type" : "Indie Electronica",
+               "color" : "orange"
+            },
+            {
+               "type" : "Melodic",
+               "color" : "yellow"
+            }
+         ],
+         "songs" : [{
+            "num" : 1,
+            "name" : "Run",
+            "duration" : "3:38",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 2,
+            "name" : "U Don't Know Fr. Wayne",
+            "duration" : "4:03",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 3,
+            "name" : "Take It To Reality Ft. Safia",
+            "duration" : "3:52",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 4,
+            "name" : "Naked",
+            "duration" : "3:17",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 5,
+            "name" : "Carry On Ft. Johnny Nelson",
+            "duration" : "4:01",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 6,
+            "name" : "I Want U",
+            "duration" : "3:30",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 7,
+            "name" : "Games",
+            "duration" : "3:35",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 8,
+            "name" : "One More Hit",
+            "duration" : "3:24",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 9,
+            "name" : "Ignore",
+            "duration" : "3:54",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 10,
+            "name" : "Back It Up",
+            "duration" : "2:13",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 11,
+            "name" : "Cold",
+            "duration" : "3:32",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 12,
+            "name" : "  Already Gone",
+            "duration" : "4:01",
+            "price" : "$2.19"
+         }]
+      }
+   ]
+}
