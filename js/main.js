@@ -12,7 +12,7 @@ function loadArtists() {
          title += "<img src=" + artists[i].image + " class='item_thumb ui image left floated tiny'/>";
          title += "<h2 class='ui header'>" + artists[i].name;
          title += '<div class="ui sub header item_name">' + artists[i].album + '</div></h2>';
-         title += '<span class="item_price">$35.99</span><a class="item_add" href="javascript:;"> Add to Cart </a></p>'
+         title += '<span class="item_price">' + artists[i].price + '</span><a class="item_add" href="javascript:;"> Add to Cart </a></p>'
          title += '<span class="ui tag label">' + artists[i].year + '</span>';
          title += '<span class="ui ' + artists[i].tags[0].color + ' tag label">' + artists[i].tags[0].type + '</span>';
          title += '<span class="ui ' + artists[i].tags[1].color + ' tag label">' + artists[i].tags[1].type + '</span>';

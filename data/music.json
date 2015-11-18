@@ -4,6 +4,7 @@
          "name" : "Alison Wonderland",
          "album" : "Run",
          "image" : "imgs/run.jpg",
+         "price" : "$9.99",
          "year" : "2015",
          "tags" : [
             {
@@ -92,6 +93,7 @@
          "name" : "Major Lazer",
          "album" : "Peace is the Mission",
          "image" : "imgs/peace.jpg",
+         "price" : "$7.99",
          "year" : "2015",
          "tags" : [
             {
@@ -105,81 +107,64 @@
          ],
          "songs" : [{
             "num" : 1,
-            "name" : "Run",
-            "duration" : "3:38",
-            "price" : "$2.19"
+            "name" : "Be Together Ft. Wild Belle",
+            "duration" : "3:53",
+            "price" : "$1.29"
          },
          {
             "num" : 2,
-            "name" : "U Don't Know Fr. Wayne",
-            "duration" : "4:03",
-            "price" : "$2.19"
+            "name" : "To Original Ft. Elliphant",
+            "duration" : "3:27",
+            "price" : "$1.29"
          },
          {
             "num" : 3,
-            "name" : "Take It To Reality Ft. Safia",
-            "duration" : "3:52",
-            "price" : "$2.19"
+            "name" : "Blaze It Up Ft. Chronixx",
+            "duration" : "3:34",
+            "price" : "$1.29"
          },
          {
             "num" : 4,
-            "name" : "Naked",
-            "duration" : "3:17",
-            "price" : "$2.19"
+            "name" : "Lean On Ft. MO & DJ Snake",
+            "duration" : "2:56",
+            "price" : "$1.29"
          },
          {
             "num" : 5,
-            "name" : "Carry On Ft. Johnny Nelson",
-            "duration" : "4:01",
-            "price" : "$2.19"
+            "name" : "Powerful Ft. Ellie Goulding",
+            "duration" : "3:26",
+            "price" : "$1.29"
          },
          {
             "num" : 6,
-            "name" : "I Want U",
-            "duration" : "3:30",
-            "price" : "$2.19"
+            "name" : "Light It Up Ft. Nyla",
+            "duration" : "3:18",
+            "price" : "$1.29"
          },
          {
             "num" : 7,
-            "name" : "Games",
-            "duration" : "3:35",
-            "price" : "$2.19"
+            "name" : "Roll the Bass",
+            "duration" : "3:46",
+            "price" : "$1.29"
          },
          {
             "num" : 8,
-            "name" : "One More Hit",
-            "duration" : "3:24",
-            "price" : "$2.19"
+            "name" : "Night Riders Ft. Pusha T & Travis Scott",
+            "duration" : "3:53",
+            "price" : "$1.29"
          },
          {
             "num" : 9,
-            "name" : "Ignore",
-            "duration" : "3:54",
-            "price" : "$2.19"
-         },
-         {
-            "num" : 10,
-            "name" : "Back It Up",
-            "duration" : "2:13",
-            "price" : "$2.19"
-         },
-         {
-            "num" : 11,
-            "name" : "Cold",
-            "duration" : "3:32",
-            "price" : "$2.19"
-         },
-         {
-            "num" : 12,
-            "name" : "  Already Gone",
-            "duration" : "4:01",
-            "price" : "$2.19"
+            "name" : "All My Love Ft. Ariana Grande",
+            "duration" : "3:49",
+            "price" : "$1.29"
          }]
       },
       {
          "name" : "XXYYXX",
          "album" : "XXYYXX",
          "image" : "imgs/xxyyxx.jpg",
+         "price" : "$12.99",
          "year" : "2012",
          "tags" : [
             {
@@ -193,74 +178,80 @@
          ],
          "songs" : [{
             "num" : 1,
-            "name" : "Run",
-            "duration" : "3:38",
+            "name" : "About You",
+            "duration" : "4:07",
             "price" : "$2.19"
          },
          {
             "num" : 2,
-            "name" : "U Don't Know Fr. Wayne",
-            "duration" : "4:03",
+            "name" : "Good Enough",
+            "duration" : "4:20",
             "price" : "$2.19"
          },
          {
             "num" : 3,
-            "name" : "Take It To Reality Ft. Safia",
-            "duration" : "3:52",
+            "name" : "Fields",
+            "duration" : "3:15",
             "price" : "$2.19"
          },
          {
             "num" : 4,
-            "name" : "Naked",
-            "duration" : "3:17",
+            "name" : "Set It Off",
+            "duration" : "4:12",
             "price" : "$2.19"
          },
          {
             "num" : 5,
-            "name" : "Carry On Ft. Johnny Nelson",
-            "duration" : "4:01",
+            "name" : "Alone",
+            "duration" : "3:53",
             "price" : "$2.19"
          },
          {
             "num" : 6,
-            "name" : "I Want U",
-            "duration" : "3:30",
+            "name" : "Dmt",
+            "duration" : "4:20",
             "price" : "$2.19"
          },
          {
             "num" : 7,
-            "name" : "Games",
-            "duration" : "3:35",
+            "name" : "Breeze",
+            "duration" : "3:00",
             "price" : "$2.19"
          },
          {
             "num" : 8,
-            "name" : "One More Hit",
+            "name" : "Closer",
             "duration" : "3:24",
             "price" : "$2.19"
          },
          {
             "num" : 9,
-            "name" : "Ignore",
-            "duration" : "3:54",
+            "name" : "Forest Fires",
+            "duration" : "4:12",
             "price" : "$2.19"
          },
          {
             "num" : 10,
-            "name" : "Back It Up",
-            "duration" : "2:13",
+            "name" : "Never Leave",
+            "duration" : "4:02",
             "price" : "$2.19"
          },
          {
             "num" : 11,
-            "name" : "Cold",
-            "duration" : "3:32",
+            "name" : "Witching Hour",
+            "duration" : "4:20",
             "price" : "$2.19"
          },
          {
             "num" : 12,
-            "name" : "  Already Gone",
-            "duration" : "4:01",
+            "name" : "Love Isn't Made Ft. Steffaloo",
+            "duration" : "2:43",
+            "price" : "$2.19"
+         },
+         {
+            "num" : 13,
+            "name" : "Tied2u",
+            "duration" : "3:17",
             "price" : "$2.19"
          }]
       }
