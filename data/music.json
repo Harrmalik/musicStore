@@ -254,6 +254,427 @@
             "duration" : "3:17",
             "price" : "$2.19"
          }]
+      },
+      {
+         "name" : "Selena Gomez",
+         "album" : "Revival",
+         "image" : "imgs/revival.jpg",
+         "price" : "$12.99",
+         "year" : "2015",
+         "tags" : [
+            {
+               "type" : "Pop",
+               "color" : "pink"
+            },
+            {
+               "type" : "R & B",
+               "color" : "purple"
+            }
+         ],
+         "songs" : [{
+              "num": "1",
+              "name": "vival",
+              "duration": "4:06",
+              "price": "$1.29"
+            },
+            {
+             "num": "2",
+             "name": "Kill Em With Kindness",
+             "duration": "3:37",
+             "price": "$1.29"
+            },
+            {
+             "num": "3",
+             "name": "Hands To Myself",
+             "duration": "3:20",
+             "price": "$1.29"
+            },
+            {
+             "num": "4",
+             "name": "Same Old Love",
+             "duration": "3:49",
+             "price": "$1.29"
+            },
+            {
+             "num": "5",
+             "name": "Sober",
+             "duration": "3:14",
+             "price": "$1.29"
+            },
+            {
+             "num": "6",
+             "name": "Good For You Ft. A$AP Rocky",
+             "duration": "3:41",
+             "price": "$1.29"
+            },
+            {
+             "num": "7",
+             "name": "Camouflage",
+             "duration": "4:09",
+             "price": "$1.29"
+            },
+            {
+              "num": "8",
+              "name": "Me & the Rhythm",
+              "duration": "3:33",
+              "price": "$1.29"
+            },
+            {
+             "num": "9",
+             "name": "Survivors",
+             "duration": "3:41",
+             "price": "$1.29"
+            },
+            {
+             "num": "10",
+             "name": "Body Heat",
+             "duration": "3:27",
+             "price": "$1.29"
+            },
+            {
+             "num": "11",
+             "name": "Rise",
+             "duration": "2:47",
+             "price": "$1.29"
+            },
+            {
+             "num": "12",
+             "name": "Me & My Girls",
+             "duration": "3:30",
+             "price": "$1.29"
+            },
+            {
+             "num": "13",
+             "name": "Nobody",
+             "duration": "3:37",
+             "price": "$1.29"
+            },
+            {
+             "num": "14",
+             "name": "Perfect",
+             "duration": "4:02",
+             "price": "$1.29"
+            }]
+      },
+      {
+         "name" : "Rudimental",
+         "album" : "Home",
+         "image" : "imgs/home.jpg",
+         "price" : "$11.99",
+         "year" : "2013",
+         "tags" : [
+            {
+               "type" : "Indie Electronica",
+               "color" : "orange"
+            },
+            {
+               "type" : "Melodic",
+               "color" : "yellow"
+            }
+         ],
+         "songs" : [{
+              "num": "1",
+              "name": "Home",
+              "duration": "3:52",
+              "price": "$1.29"
+            },
+            {
+             "num": "2",
+             "name": "Feel The Love Ft. John Newman",
+             "duration": "4:05",
+             "price": "$1.29"
+            },
+            {
+             "num": "3",
+             "name": "Right Here Ft. Foxes",
+             "duration": "5:36",
+             "price": "$1.29"
+            },
+            {
+             "num": "4",
+             "name": "Hell Could Freeze Ft. Anne Marie",
+             "duration": "4:40",
+             "price": "$1.29"
+            },
+            {
+             "num": "5",
+             "name": "Spoons Ft. MNEK & Syron",
+             "duration": "5:22",
+             "price": "$1.29"
+            },
+            {
+             "num": "6",
+             "name": "Hide Ft. Sinead Harnett",
+             "duration": "6:01",
+             "price": "$1.29"
+            },
+            {
+             "num": "7",
+             "name": "Powerless Ft. Becky Hill",
+             "duration": "3:55",
+             "price": "$1.29"
+            },
+            {
+              "num": "8",
+              "name": "More Than Anything Ft. Emeli Sande",
+              "duration": "4:55",
+              "price": "$1.29"
+            },
+            {
+             "num": "9",
+             "name": "Not Giving In Ft. John Newman",
+             "duration": "3:59",
+             "price": "$1.29"
+            },
+            {
+             "num": "10",
+             "name": "Baby Ft. MNEK & Sinead Harnett",
+             "duration": "4:00",
+             "price": "$1.29"
+            },
+            {
+             "num": "11",
+             "name": "Waiting All Night Ft. Ella Eyre",
+             "duration": "4:52",
+             "price": "$1.29"
+            },
+            {
+             "num": "12",
+             "name": "Free",
+             "duration": "3:36",
+             "price": "$1.29"
+            }]
+      },
+      {
+         "name" : "Nervo",
+         "album" : "Collateral",
+         "image" : "imgs/collateral.jpg",
+         "price" : "$9.99",
+         "year" : "2015",
+         "tags" : [
+            {
+               "type" : "Indie Electronica",
+               "color" : "orange"
+            },
+            {
+               "type" : "Melodic",
+               "color" : "yellow"
+            }
+         ],
+         "songs" : [{
+            "num": "1",
+            "name": "Bulletproof Ft. Harrison",
+            "duration": "3:18",
+            "price": "$1.29"
+          },
+          {
+           "num": "2",
+           "name": "Hold On",
+           "duration": "3:00",
+           "price": "A"
+          },
+          {
+           "num": "3",
+           "name": "Did We Forget Ft. Amba Sheperd",
+           "duration": "4:10",
+           "price": "$1.29"
+          },
+          {
+           "num": "4",
+           "name": "Oh Diana",
+           "duration": "3:20",
+           "price": "$1.29"
+          },
+          {
+           "num": "5",
+           "name": "Haute Mess",
+           "duration": "2:49",
+           "price": "$1.29"
+          },
+          {
+           "num": "6",
+           "name": "Hey Ricky",
+           "duration": "3:03",
+           "price": "$1.29"
+          },
+          {
+           "num": "7",
+           "name": "Let It Go Ft. Nicky Romero",
+           "duration": "3:25",
+           "price": "$1.29"
+          },
+          {
+            "num": "8",
+            "name": "Rainham Road",
+            "duration": "3:16",
+            "price": "$1.29"
+          },
+          {
+           "num": "9",
+           "name": "Rise Early Morning",
+           "duration": "3:20",
+           "price": "$1.29"
+          },
+          {
+           "num": "10",
+           "name": "The Other Boys Ft. Kylie",
+           "duration": "4:56",
+           "price": "$1.29"
+          },
+          {
+           "num": "11",
+           "name": "Reason",
+           "duration": "3:33",
+           "price": "A"
+          },
+          {
+           "num": "12",
+           "name": "Right Thru Me Ft. J. Park",
+           "duration": "3:07",
+           "price": "$1.29"
+          },
+          {
+           "num": "13",
+           "name": "You're Gonna Love Again",
+           "duration": "3:21",
+           "price": "A"
+          },
+          {
+           "num": "14",
+           "name": "We're All No One Ft Steve",
+           "duration": "5:41",
+           "price": "A"
+          },
+          {
+           "num": "15",
+           "name": "It Feels",
+           "duration": "3:18",
+           "price": "$1.29"
+          }]
+      },
+      {
+         "name" : "Eden",
+         "album" : "End Credits",
+         "image" : "imgs/end-credits.jpg",
+         "price" : "$0.00",
+         "year" : "2015",
+         "tags" : [
+            {
+               "type" : "Indie Electronica",
+               "color" : "orange"
+            },
+            {
+               "type" : "Melodic",
+               "color" : "yellow"
+            }
+         ],
+         "songs" : [         {
+            "num": "1",
+            "name": "End Credits [Instrumental]",
+            "duration": "4:00",
+            "price": "$0.00"
+         },
+         {
+            "num": "2",
+            "name": "Catch Me if You Can [Bonus]",
+            "duration": "3:09",
+            "price": "$0.00"
+         },
+         {
+            "num": "3",
+            "name": "Wake Up",
+            "duration": "4:40",
+            "price": "$0.00"
+         },
+         {
+            "num": "4",
+            "name": "Interlude",
+            "duration": "2:44",
+            "price": "$0.00"
+         },
+         {
+            "num": "5",
+            "name": "Nocturne",
+            "duration": "3:18",
+            "price": "$0.00"
+         },
+         {
+            "num": "6",
+            "name": "Gravity",
+            "duration": "3:51",
+            "price": "$0.00"
+         },
+         {
+            "num": "7",
+            "name": "End Credits Ft. Leah Kelly",
+            "duration": "4:00",
+            "price": "$0.00"
+         },
+         {
+            "num": "8",
+            "name": "02:09",
+            "duration": "4:11",
+            "price": "$0.00"
+         }]
+      },
+      {
+         "name" : "Marian Hill",
+         "album" : "Sway",
+         "image" : "imgs/play.jpg",
+         "price" : "$5.99",
+         "year" : "2015",
+         "tags" : [
+            {
+               "type" : "Indie Electronica",
+               "color" : "orange"
+            },
+            {
+               "type" : "Melodic",
+               "color" : "yellow"
+            }
+         ],
+         "songs" : [{
+            "num": "1",
+            "name": "One Time",
+            "duration": "3:37",
+            "price": "$1.29"
+         },
+         {
+            "num": "2",
+            "name": "Got It",
+            "duration": "3:11",
+            "price": "$1.29"
+         },
+         {
+            "num": "3",
+            "name": "Lips",
+            "duration": "3:18",
+            "price": "$1.29"
+         },
+         {
+            "num": "4",
+            "name": "Wasted",
+            "duration": "3:37",
+            "price": "$1.29"
+         },
+         {
+            "num": "5",
+            "name": "Lovit",
+            "duration": "2:54",
+            "price": "$1.29"
+         },
+         {
+            "num": "6",
+            "name": "Deep",
+            "duration": "3:27",
+            "price": "$1.29"
+         },
+         {
+            "num": "7",
+            "name": "Whisky",
+            "duration": "3:10",
+            "price": "$1.29"
+         }]
       }
    ]
 }
